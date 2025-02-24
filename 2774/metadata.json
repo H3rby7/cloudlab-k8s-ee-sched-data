@@ -1,4 +1,6 @@
 {
   "target_node_count": 10,
+  "involved_ms_count": 94,
+  "trace_count": 2774,
   "duration_in_min": 60
 }
